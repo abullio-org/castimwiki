@@ -25,7 +25,7 @@ SECRET_KEY = 'zd6_s378po(_cw$7pm0fw1@n9_lv&a%n!1^z&*8kn_(b+@uyp7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.185.114.239']
 
 
 # Application definition
